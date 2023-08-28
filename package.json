@@ -1,0 +1,22 @@
+{
+  "name": "tejas-npm",
+  "version": "1.0.0",
+  "description": "Playground to deploy and playaround my own npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saitejas/my-npm.git"
+  },
+  "keywords": [
+    "tejas"
+  ],
+  "author": "Saitejas V P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saitejas/my-npm/issues"
+  },
+  "homepage": "https://github.com/saitejas/my-npm#readme"
+}
