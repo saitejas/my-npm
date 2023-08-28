@@ -1,6 +1,6 @@
 {
   "name": "tejas-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Playground to deploy and playaround my own npm packages",
   "main": "index.js",
   "scripts": {
